@@ -1,10 +1,6 @@
 # smartParking
 [상화] Easy finding for public parking lots
 
-# smart_parking
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
